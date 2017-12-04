@@ -1,0 +1,11 @@
+C:\Users\Alfredo\Documents\Visual Studio 2010\Projects\Editor de Grafos\Editor de Grafos\bin\Debug\Editor de Grafos.exe
+C:\Users\Alfredo\Documents\Visual Studio 2010\Projects\Editor de Grafos\Editor de Grafos\bin\Debug\Editor de Grafos.pdb
+C:\Users\Alfredo\Documents\Visual Studio 2010\Projects\Editor de Grafos\Editor de Grafos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alfredo\Documents\Visual Studio 2010\Projects\Editor de Grafos\Editor de Grafos\obj\x86\Debug\Editor_de_Grafos.Form1.resources
+C:\Users\Alfredo\Documents\Visual Studio 2010\Projects\Editor de Grafos\Editor de Grafos\obj\x86\Debug\Editor_de_Grafos.Properties.Resources.resources
+C:\Users\Alfredo\Documents\Visual Studio 2010\Projects\Editor de Grafos\Editor de Grafos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alfredo\Documents\Visual Studio 2010\Projects\Editor de Grafos\Editor de Grafos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alfredo\Documents\Visual Studio 2010\Projects\Editor de Grafos\Editor de Grafos\obj\x86\Debug\Editor de Grafos.exe
+C:\Users\Alfredo\Documents\Visual Studio 2010\Projects\Editor de Grafos\Editor de Grafos\obj\x86\Debug\Editor de Grafos.pdb
+C:\Users\Alfredo\Documents\Visual Studio 2010\Projects\Editor de Grafos\Editor de Grafos\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Alfredo\Documents\Visual Studio 2010\Projects\Editor de Grafos\Editor de Grafos\bin\Debug\Tao.OpenGl.dll
